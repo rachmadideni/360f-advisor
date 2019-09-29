@@ -1,0 +1,5 @@
+/*
+ *
+ * CustomerViewContainer constants
+ *
+ */
